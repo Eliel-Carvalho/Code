@@ -12,4 +12,7 @@ const Microfone = {
     },
 }
 
-Microfone.toggleOnOff()
+//Microfone.toggleOnOff()
+
+console.log(Object.values(Microfone))
+console.log(Object.keys(Microfone))

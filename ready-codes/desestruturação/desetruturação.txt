@@ -1,0 +1,15 @@
+Tirar um valor primitivo de dentro de uma estrutura de dados de dentro de outra estrutura!!
+
+
+*Objetos {
+    *Renomeando propriedade
+    *colocando em variaveis existentes
+}
+
+Array {
+    * 2 Valores
+    * Desconsiderando itens
+    *rest
+}
+
+*Function

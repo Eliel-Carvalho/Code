@@ -1,0 +1,3 @@
+A class no javascrip ela é uma syntactic sugar, é apenas uma foma bela e elegante de te mostrar um prototype. prototype under the hood --> (debaixo do capo), ou seja por baixo dos panos estar rodando o prototype. com uma clareza visual
+
+A criação de objetos usando a class no javascript, não é a mesma coisa da class na POO, objetos na javascript usando class podemos usar toda a cadeia de prototypo do javascript.

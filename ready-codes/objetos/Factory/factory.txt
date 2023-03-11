@@ -1,0 +1,7 @@
+Factory ---> padrão de projetos, que significa: fabrica!!
+
+
+O objeto Factory, ele é uma função, que tem como returno um objeto.
+Eu posso fazer reuso do mesmo objeto, para criar outros objetos, esconder alguma ou algumas propriedade do objeto e retornar somente a minha função.
+
+MAS NÃO DAR PARA CRIAR FUNÇÕES INTERNAS!!

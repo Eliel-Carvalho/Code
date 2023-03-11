@@ -1,0 +1,7 @@
+OBJECLITERAL!!!
+    Ele é simples de criar
+    Visualmente simples de entender
+
+
+    Se eu precisar criar mais de 1, (reuso)
+        mudar alguns detales

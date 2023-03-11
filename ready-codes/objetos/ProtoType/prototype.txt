@@ -1,0 +1,9 @@
+ProtoType é a base do javascript em termos dos objetos!!
+
+Para criar um objeto usando a cadeia de prototypos do javascript, criamos uma função, passamos um nome para essa função, e, aparte disso, criamos uma variavel e usamos o operador (nwe) para criamos uma nova instancia desse objeto.
+quando colocarmos esse variavel criada em uma console log, nos vamos ter não somente um objeto, mas, um objeto classificado com um nome!!
+
+
+Para resolver o problema da criação de funçoes internas, que na factory a gente não conseguia, assim como no objectliteral, aqui com o prototype, nois vamos pegar a nossa função construtora, vamos pegar o comando (.prototype) para entar dentro da cadeia de prototipos do javascript e vamos adc a function toggloOnOff()
+
+porque se nois criamos uma função dentro da função principal, ela vai ser repetida!

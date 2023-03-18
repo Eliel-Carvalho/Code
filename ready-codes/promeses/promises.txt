@@ -1,0 +1,10 @@
+Promises no javascript são como promessas na vida real, ela está esperando algun retorno.
+
+Para criar uma promise instancamos a class promise
+
+que leva dois argumentos (resolve) => solução e (reject) => erro
+
+para encadeiar mais promises usamos o metodo (then)
+
+alguns recuros do js como (Fetch API) e bibliotecas retornam uma promessa
+
